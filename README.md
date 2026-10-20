@@ -32,4 +32,3 @@ Me gusta construir soluciones que resuelven problemas reales, combinando desarro
 | [antartica-backend](https://github.com/Eth3rn4l/antartica-backend) | API REST para una librería online: libros, categorías, carrito, pedidos y usuarios con autenticación JWT. | Node.js · Express · MySQL |
 | [PulseBackend](https://github.com/Eth3rn4l/PulseBackend) | API REST para la app Android AppPlayPulse: usuarios, publicaciones, amigos y juegos. | Node.js · Express · MongoDB |
 | [AppPlayPulse](https://github.com/Eth3rn4l/AppPlayPulse) | App Android para ver y comparar estadísticas de juegos con amigos (proyecto grupal). | Kotlin |
-| [finanzas-mi-patito](https://github.com/Eth3rn4l/finanzas-mi-patito) | App de finanzas personales con la regla 50/30/20 (proyecto grupal). | JavaScript · SQL |
