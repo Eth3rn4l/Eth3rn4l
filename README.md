@@ -30,7 +30,6 @@ Me gusta construir soluciones que resuelven problemas reales, combinando desarro
 |---|---|---|
 | [liga-el-desafio](https://github.com/Eth3rn4l/liga-el-desafio) | Plataforma web en producción para la liga de Magic Commander de Cafetería El Desafío: reloj de rondas, mesas, standing en vivo y portal de jugadores. [Ver sitio](https://liga-eldesafio.netlify.app) | JavaScript · Supabase · Netlify |
 | [pokun-pos](https://github.com/Eth3rn4l/pokun-pos) | Caja y stock para un almacén de barrio: venta con lector de códigos, cobro con vuelto, inventario, resumen diario y planillas Excel. [Demo](https://eth3rn4l.github.io/pokun-pos/) | JavaScript · SheetJS |
-| [piscinas-ensueno](https://github.com/Eth3rn4l/piscinas-ensueno) | Sitio de venta de piscinas de fibra: catálogo con filtros, configurador de color con modelo 3D, calculadora y pedidos por WhatsApp. [Demo](https://eth3rn4l.github.io/piscinas-ensueno/) | JavaScript · three.js · Canvas |
 | [mi-sueldo-al-dia](https://github.com/Eth3rn4l/mi-sueldo-al-dia) | App de presupuesto personal: ahorro, tope de gasto, categorías y simulación del impacto de cada compra. [Demo](https://eth3rn4l.github.io/mi-sueldo-al-dia/) | JavaScript |
 | [antartica-backend](https://github.com/Eth3rn4l/antartica-backend) | API REST para una librería online: libros, categorías, carrito, pedidos y usuarios con autenticación JWT. | Node.js · Express · MySQL |
 | [PulseBackend](https://github.com/Eth3rn4l/PulseBackend) | API REST para la app Android AppPlayPulse: usuarios, publicaciones, amigos y juegos. | Node.js · Express · MongoDB |
